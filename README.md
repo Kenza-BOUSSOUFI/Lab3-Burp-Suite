@@ -29,6 +29,24 @@ Adresse d’écoute : 172.0.0.1 -> loop back only
 
 Étape 3 — Identifier l’adresse réseau de la machine hôte
 1- On doit identifier l'adresse IP de la machine local, ou utiliser l’adresse réseau de la machine hôte accessible depuis l’émulateur Android qui est 10.0.2.2.
+
 Étape 4 — Configurer le proxy côté Android Emulator
 1- J'ai utilisé l'émulateur pixel 6 ( API 36) d'Android studio.
-2- Pour configurer la liaison entre l'emulateur et Burp suite, on doit accedé à: Settings > Network & Internet > Internet > Proxy (Choisis Manual).
+
+2- Pour configurer la liaison entre l'emulateur et Burp suite, on doit accedé à: Settings -> Network & Internet -> Réseau wifi actif -> Internet -> Proxy (Choisis Manual).
+
+<img width="728" height="1031" alt="8" src="https://github.com/user-attachments/assets/62ed166b-d97a-47fa-a543-c8d72b7a0767" />
+
+<img width="494" height="1028" alt="9" src="https://github.com/user-attachments/assets/c360ff72-697f-4cad-9105-e026069287ec" />
+
+Étape 5 — Premier test : capturer du HTTP (validation de base)
+1- Dans l’émulateur, ouvrir le navigateur.Puis on va accéder à une cible autorisée (Dans notre cas on va taper  http://neverssl.com ).
+
+<img width="495" height="1027" alt="10" src="https://github.com/user-attachments/assets/0a2f573a-c6d6-446e-8dd5-0546a96c497b" />
+
+2-On va revenir dans Burp, ouvrir HTTP history pour Vérifier qu’au moins une requête apparaît.
+
+<img width="1909" height="700" alt="11" src="https://github.com/user-attachments/assets/334cf3b3-0d7f-4f80-9583-2562d2c394d3" />
+
+
+
