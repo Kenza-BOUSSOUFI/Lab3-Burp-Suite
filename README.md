@@ -1,6 +1,7 @@
 # Lab3-Burp-Suite
 Étape 1 — Préparer Burp Suite
 1- On Lance Burp Suite, puis on crée un projet temporaire.
+<img width="942" height="705" alt="1" src="https://github.com/user-attachments/assets/2ca13c25-39dc-4a76-8782-4fdd42fac318" />
 2- Ensuite, dans l’onglet Proxy.On vérifir que la page “Intercept” est visible et que l’état Intercept is off apparaît:
 Étape 2 — Vérifier le Proxy Listener (adresse et port)
 1- Dans proxy -> proxy settings:
