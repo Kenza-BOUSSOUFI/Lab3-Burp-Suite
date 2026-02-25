@@ -1,4 +1,4 @@
-<img width="1459" height="380" alt="7" src="https://github.com/user-attachments/assets/cab141e4-aec1-4599-a177-3e2cf63d1034" /># Lab3-Burp-Suite
+# Lab3-Burp-Suite
 
 Étape 1 — Préparer Burp Suite
 
