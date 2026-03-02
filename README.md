@@ -71,6 +71,8 @@ La page se charge indefiniment et la requete est bloque.
 
 
 Fin de lab — Nettoyage (hygiène)
+
+
 <img width="763" height="309" alt="image" src="https://github.com/user-attachments/assets/33f563e0-5914-4ecd-ba0e-e42c77214eb6" />
 
 <img width="864" height="578" alt="image" src="https://github.com/user-attachments/assets/3b557ea2-47c5-4bb1-a1fc-4316b9878888" />
