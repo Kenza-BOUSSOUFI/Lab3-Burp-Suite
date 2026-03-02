@@ -62,21 +62,22 @@ La page se charge indefiniment et la requete est bloque.
 
 Étape 8 — HTTPS en laboratoire : principe du certificat CA (sans contournement)
 
+<img width="648" height="1316" alt="image" src="https://github.com/user-attachments/assets/a402a01a-3a28-4278-b25d-6439915bac68" />
 
 
 
 <img width="600" height="1294" alt="image" src="https://github.com/user-attachments/assets/16fe842d-a5a9-4f5d-a675-e3344beeea5b" />
 
-<img width="763" height="309" alt="image" src="https://github.com/user-attachments/assets/33f563e0-5914-4ecd-ba0e-e42c77214eb6" />
 
 
 Fin de lab — Nettoyage (hygiène)
+<img width="763" height="309" alt="image" src="https://github.com/user-attachments/assets/33f563e0-5914-4ecd-ba0e-e42c77214eb6" />
+
 <img width="864" height="578" alt="image" src="https://github.com/user-attachments/assets/3b557ea2-47c5-4bb1-a1fc-4316b9878888" />
 
 
 
 
-<img width="648" height="1316" alt="image" src="https://github.com/user-attachments/assets/a402a01a-3a28-4278-b25d-6439915bac68" />
 
 
 
